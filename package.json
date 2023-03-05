@@ -1,0 +1,17 @@
+{
+  "name": "emailcollector",
+  "version": "1.0.0",
+  "description": "An app that has a collection of emails for all those who signs in",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dreamy Medhi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "bootstrap": "^5.3.0-alpha1",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
